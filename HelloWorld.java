@@ -1,1 +1,7 @@
-This is a dummy java file which has no java code.
+public  class HelloWorld{
+
+	public static void main(String args[])
+	{
+		System.out.println("Shree Ram...");
+	}
+}
